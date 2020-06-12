@@ -1,5 +1,5 @@
 # selenium :upside_down_face:
-##selenium implementation of extracting data from airbnb. Pure * selenium *
+## selenium implementation of extracting data from airbnb. Pure ** selenium **
 * Frequently used selector
   * driver.find_elements_by_class_name('classname')
   * driver.find_elements_by_xpath('//a[@class="classname"]') 
